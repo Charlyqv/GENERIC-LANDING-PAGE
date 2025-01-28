@@ -1,0 +1,18 @@
+.containerInfo {
+  position: absolute;
+  bottom: -18%; 
+  left: 9%; 
+  width: 37%; 
+  height: auto;
+  padding: 20px;
+  background-color: rgba(200, 200, 200, 0.3);
+  border: 2px dashed rgba(255, 255, 255, 0.4);
+  z-index: 1; 
+  align-items: center;
+}
+
+@media (max-width: 991px) {
+  .containerInfo{
+    display: none;
+  }
+}
