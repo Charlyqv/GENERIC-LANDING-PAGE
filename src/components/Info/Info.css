@@ -2,7 +2,7 @@
   position: absolute;
   bottom: -18%; 
   left: 9%; 
-  width: 37%; 
+  width: 45%; 
   height: auto;
   padding: 20px;
   background-color: rgba(200, 200, 200, 0.3);
@@ -12,7 +12,41 @@
 }
 
 @media (max-width: 991px) {
+  
   .containerInfo{
-    display: none;
+    position: unset;
+    width: 50%;
+  }
+}
+
+@media (max-width: 800px) {
+  
+  .containerInfo{
+    position: unset;
+    width: 55%;
+  }
+}
+
+@media (max-width: 700px) {
+  
+  .containerInfo{
+    position: unset;
+    width: 60%;
+  }
+}
+
+@media (max-width: 600px) {
+  
+  .containerInfo{
+    position: unset;
+    width: 65%;
+  }
+}
+
+@media (max-width: 500px) {
+  
+  .containerInfo{
+    position: unset;
+    width: 70%;
   }
 }

@@ -33,7 +33,6 @@ export const Footer = () => {
 
       <div className="footer-item">
       <FontAwesomeIcon icon={faPhone} /> 
-        {/* <i class="fas fa-phone"> </i> */}
         <a href="tel:4433221500,3"> 443 322 15 00 Ext. 3</a>
         <br/>
             800 700 UNLA<br/>
@@ -61,7 +60,6 @@ export const Footer = () => {
         </a>
         <a href="https://www.threads.net/@unlamorelia" target="_blank">
             <img src={threads} alt="Threads" />
-            {/* <img src="assets/img/iconos/Iconos -01.png" width="9%"> */}
         </a>
       </div>
     </footer>

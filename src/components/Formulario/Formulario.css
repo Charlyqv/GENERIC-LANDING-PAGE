@@ -7,9 +7,6 @@
   padding: 10px;
   background-color: rgba(255, 255, 255, 0.4);
   border: 2px dashed rgba(255, 255, 255, 0.4);
-  /* background-color: white;  */
-  /* box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); */
-  /* border-radius: 1px;  */
   z-index: 1; 
   align-items: center;
 }
@@ -71,7 +68,6 @@ option{
 
 .btn-sent {
   background-color: rgba(56, 17, 90, 0.78);
-  /* color: rgba(56, 17, 90, 0.78) !important; */
   color: white;
 }
 
@@ -99,14 +95,11 @@ option{
   .nested-div {
     display: flex;          
     justify-content: center;
-    align-items: center;    
-    /* height: 100vh;           */
+    align-items: center;
   }
 
   .form-container {
     position: unset;
     width: 70%; 
-    /* justify-content: center; */
-    /* align-items: center; */
   }
 }

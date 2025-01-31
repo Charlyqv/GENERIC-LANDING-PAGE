@@ -178,22 +178,6 @@ export const Formulario = () => {
                 ; además estoy de acuerdo con recibir información.
               </label>
             </div>
-            {/* <div className="col-xs-10 col-md-11 d-flex align-items-center">
-              <label className="terminos terminos-custom" htmlFor="terms" id="termycondiciones">
-                He leído y acepto los términos y condiciones del{" "}
-                <strong>
-                  <a
-                    style={{ color: "blue", textDecoration: "underline" }}
-                    href="https://www.unla.mx/aviso-de-privacidad"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    aviso de privacidad
-                  </a>
-                </strong>
-                ; además estoy de acuerdo con recibir información.
-              </label>
-            </div> */}
           </div>
           <hr />
           <div className="row">
